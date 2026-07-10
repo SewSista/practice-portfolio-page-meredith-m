@@ -1,0 +1,57 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #c4ae7f;
+    color: #08220e;
+    font-family:'Grenze', serif;
+    font-size: 1rem;
+    line-height: 1.55;
+    margin: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: #117f2d22
+}
+
+a:hover {
+    color:#338e47
+}
+
+a:visited {
+    color:#1ec041
+}
+
+/*header {
+background-color: #3f784b;
+}
+
+h1 {
+background-color: #000e03;
+}
+
+h2 {
+background-color: #011605;
+}
+
+h3 {
+background-color: #08230e;
+}
+
+section {
+background-color: #90eda4;
+}
+
+footer {
+background-color: #90eda4;
+}
+*/
