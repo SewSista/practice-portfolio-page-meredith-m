@@ -5,9 +5,9 @@
 }
 
 body {
-    background-color: #c4ae7f;
+    background-color: #99907c;
     color: #08220e;
-    font-family:'Grenze', serif;
+    font-family:'Grenze', 'Texturina', serif;
     font-size: 1rem;
     line-height: 1.55;
     margin: 0;
@@ -32,26 +32,29 @@ a:visited {
 }
 
 /*header {
-background-color: #3f784b;
-}
+background-color: #95bd8f;
+}*/
 
 h1 {
-background-color: #000e03;
+background-color: #41943c;
 }
 
 h2 {
-background-color: #011605;
+background-color: #41943c;
 }
 
 h3 {
-background-color: #08230e;
+background-color: #41943c;
+}
+
+h4 {
+background-color: #41943c;
 }
 
 section {
-background-color: #90eda4;
+background-color: #95b889;
 }
 
 footer {
-background-color: #90eda4;
+background-color: #95b889;
 }
-*/
